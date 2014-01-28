@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/587/trunk/python
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/265/trunk/python/LICENSE
+END
+publish
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/101/trunk/python/publish
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/56/trunk/python/INSTALL
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/565/trunk/python/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/505/trunk/python/MANIFEST.in
+END
+publish-deb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/315/trunk/python/publish-deb
+END

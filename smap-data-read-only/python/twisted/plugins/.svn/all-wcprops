@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/495/trunk/python/twisted/plugins
+END
+smap_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/495/trunk/python/twisted/plugins/smap_plugin.py
+END
+smap_archiver_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/462/trunk/python/twisted/plugins/smap_archiver_plugin.py
+END

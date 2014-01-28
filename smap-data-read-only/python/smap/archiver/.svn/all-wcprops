@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/587/trunk/python/smap/archiver
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/272/trunk/python/smap/archiver/help.py
+END
+stream.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/565/trunk/python/smap/archiver/stream.py
+END
+querygen.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/406/trunk/python/smap/archiver/querygen.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/272/trunk/python/smap/archiver/__init__.py
+END
+querydata.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/273/trunk/python/smap/archiver/querydata.py
+END
+queryparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/567/trunk/python/smap/archiver/queryparse.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/426/trunk/python/smap/archiver/settings.py
+END
+settings.spec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/540/trunk/python/smap/archiver/settings.spec
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/565/trunk/python/smap/archiver/server.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/587/trunk/python/smap/archiver/api.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/540/trunk/python/smap/archiver/data.py
+END
+tscache.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/271/trunk/python/smap/archiver/tscache.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/564/trunk/python/smap/archiver/client.py
+END
+republisher.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/288/trunk/python/smap/archiver/republisher.py
+END
+transfer.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/549/trunk/python/smap/archiver/transfer.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/529/trunk/python/smap/archiver/ast.py
+END

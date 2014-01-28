@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/481/trunk/python/smap/iface/modbustcp
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/117/trunk/python/smap/iface/modbustcp/__init__.py
+END
+ModbusTCP.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/481/trunk/python/smap/iface/modbustcp/ModbusTCP.py
+END

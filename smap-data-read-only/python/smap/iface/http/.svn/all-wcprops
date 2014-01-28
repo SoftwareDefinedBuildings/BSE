@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/526/trunk/python/smap/iface/http
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/python/smap/iface/http/__init__.py
+END
+httputils.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/526/trunk/python/smap/iface/http/httputils.py
+END
+httpcurl.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/300/trunk/python/smap/iface/http/httpcurl.py
+END

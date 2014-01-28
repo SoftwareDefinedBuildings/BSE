@@ -1,0 +1,2 @@
+CREATE EXTENSION hstore;
+CREATE TABLE test1 ( id INT PRIMARY KEY, uuid VARCHAR(36) UNIQUE, metadata HSTORE DEFAULT hstore(array[]::varchar[]) );

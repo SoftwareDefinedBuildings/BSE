@@ -1,0 +1,81 @@
+2013-09-28 14:08:55-0700 [-] Log opened.
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testCoveringRead <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testDoubleSplitRead <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testInserted <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testNeighboringRead <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testNoSS <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testPartialRead <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testSave <--
+2013-09-28 14:08:55-0700 [-] --> smap.archiver.test.test_tscache.TimeseriesTest.testSimpleRead <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_count <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_first <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_max <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_median <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_min <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_arithmetic.TestArithmetic.test_sum <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_gen.TestParser.test_mergedsum <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_day <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_exceptions <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_fill_missing <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_flush <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_hour <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_inclusive <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_increment <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_offset <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_oneatatime <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_slide <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_snap_times <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestGroupByDatetime.test_snap_times_increment <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestJoins.test_join_union <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestJoins.test_join_union_empty <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestMaskedDTList.test_basic <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestMaskedDTList.test_realpattern <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestTranspose.test_simple <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestVectorOperator.test_stream_axis <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestVectorOperator.test_streaming <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_group.TestVectorOperator.test_time_axis <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_decreasing <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_decreasing_simple <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_increasing <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_one_reset <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_reset_before <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_reset_first <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_meter.TestMeter.test_starting_offset <--
+2013-09-28 14:08:55-0700 [-] --> smap.ops.test.test_units.TestUnits.test_op <--
+2013-09-28 14:08:55-0700 [-] --> smap.test.test_core.TestTimeseries.test_init <--
+2013-09-28 14:08:55-0700 [-] --> smap.test.test_core.TestTimeseries.test_invalid_attr <--
+2013-09-28 14:08:55-0700 [-] --> smap.test.test_core.TestTimeseries.test_set_metadata <--
+2013-09-28 14:08:55-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_1 <--
+2013-09-28 14:08:55-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_aging <--
+2013-09-28 14:08:57-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_append <--
+2013-09-28 14:08:57-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_big <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_corrupt_meta <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_disappearing_all <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_disappearing_logs <--
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:0'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:2'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:3'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:4'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:5'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:6'
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:7'
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_edithead <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_edithead_2 <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_pop <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_race <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_save_one <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_trunc <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_trunc_split <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_disklog.TestDiskLog.test_unwritable_file <--
+2013-09-28 14:08:58-0700 [-] 'WARN: disappeared log entry:0'
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_maxsize <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_metadata_split <--
+2013-09-28 14:08:58-0700 [-] Create databuffer test_dir
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_onestream <--
+2013-09-28 14:08:58-0700 [-] Create databuffer test_dir
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_partialread <--
+2013-09-28 14:08:58-0700 [-] Create databuffer test_dir
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_truncate <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestDataBuffer.test_truncate_adds <--
+2013-09-28 14:08:58-0700 [-] --> smap.test.test_reporting.TestReportingCopy.test_simple <--
+2013-09-28 14:08:58-0700 [-] ReadingdbPool shutting down: 0

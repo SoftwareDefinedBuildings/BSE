@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/466/trunk/python/smap/drivers/obvius
+END
+bmo.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/265/trunk/python/smap/drivers/obvius/bmo.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/56/trunk/python/smap/drivers/obvius/__init__.py
+END
+sensordb.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/447/trunk/python/smap/drivers/obvius/sensordb.py
+END
+bmo-import.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/265/trunk/python/smap/drivers/obvius/bmo-import.py
+END
+crawl_bmo.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/449/trunk/python/smap/drivers/obvius/crawl_bmo.py
+END
+obvius.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/466/trunk/python/smap/drivers/obvius/obvius.py
+END

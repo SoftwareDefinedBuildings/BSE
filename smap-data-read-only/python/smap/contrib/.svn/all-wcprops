@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/587/trunk/python/smap/contrib
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/265/trunk/python/smap/contrib/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/python/smap/contrib/__init__.py
+END
+dtutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/587/trunk/python/smap/contrib/dtutil.py
+END

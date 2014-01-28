@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/558/trunk/python/smap/iface
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/python/smap/iface/__init__.py
+END
+tinyos.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/558/trunk/python/smap/iface/tinyos.py
+END
+pgreadingdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/193/trunk/python/smap/iface/pgreadingdb.py
+END

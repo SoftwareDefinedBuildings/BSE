@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/472/trunk/python/smap/archiver/sql
+END
+hstore-upgrade.psql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/472/trunk/python/smap/archiver/sql/hstore-upgrade.psql
+END
+tables.psql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/389/trunk/python/smap/archiver/sql/tables.psql
+END
+set-metadata-default.psql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/409/trunk/python/smap/archiver/sql/set-metadata-default.psql
+END
+insert-stream.psql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/423/trunk/python/smap/archiver/sql/insert-stream.psql
+END

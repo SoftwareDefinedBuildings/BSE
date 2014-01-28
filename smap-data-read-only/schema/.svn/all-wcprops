@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/550/trunk/schema
+END
+formatting.av
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/56/trunk/schema/formatting.av
+END
+readingtype.av
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/56/trunk/schema/readingtype.av
+END
+command.av
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/56/trunk/schema/command.av
+END
+metadata.av
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/345/trunk/schema/metadata.av
+END
+actuator.av
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/56/trunk/schema/actuator.av
+END
+unitoftime.av
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/56/trunk/schema/unitoftime.av
+END
+duration.av
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/56/trunk/schema/duration.av
+END
+collection.av
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/56/trunk/schema/collection.av
+END
+operatormetadata.av
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/345/trunk/schema/operatormetadata.av
+END
+properties.av
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/56/trunk/schema/properties.av
+END
+reportdata.av
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/550/trunk/schema/reportdata.av
+END
+readingvalue.av
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/56/trunk/schema/readingvalue.av
+END
+uuid.av
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/56/trunk/schema/uuid.av
+END
+reporting.av
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/schema/reporting.av
+END
+instrumentmetadata.av
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/345/trunk/schema/instrumentmetadata.av
+END
+locationmetadata.av
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/236/trunk/schema/locationmetadata.av
+END
+timeseries.av
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/549/trunk/schema/timeseries.av
+END

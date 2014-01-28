@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet
+END
+address6.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/address6.py
+END
+tcp6.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/tcp6.py
+END
+udp6.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/udp6.py
+END
+reactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/reactor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/__init__.py
+END
+posixbase6.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/56/trunk/python/tx/ipv6/internet/posixbase6.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/552/trunk/python/bin
+END
+smap-subscribe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/552/trunk/python/bin/smap-subscribe
+END
+smap-query
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/552/trunk/python/bin/smap-query
+END
+smap-run-conf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/265/trunk/python/bin/smap-run-conf
+END
+smap-load-csv
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/546/trunk/python/bin/smap-load-csv
+END
+jprint
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/266/trunk/python/bin/jprint
+END
+uuid
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/301/trunk/python/bin/uuid
+END
+smap-reporting
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/526/trunk/python/bin/smap-reporting
+END
+smap-tool
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/523/trunk/python/bin/smap-tool
+END
+smap-run-driver
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/265/trunk/python/bin/smap-run-driver
+END
+smap-monitize
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/546/trunk/python/bin/smap-monitize
+END
+smap-load
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/536/trunk/python/bin/smap-load
+END

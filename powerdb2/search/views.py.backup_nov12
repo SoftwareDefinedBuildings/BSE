@@ -1,0 +1,225 @@
+# Create your views here.
+
+from django.template import Context, loader
+from django.http import HttpResponse, HttpResponseNotAllowed, HttpResponseRedirect, HttpResponseBadRequest, Http404
+from django.contrib.admin import site as adminsite
+from search import * 
+import re
+import ast
+i = 0
+lines = open("search/MetadataDump_flattened").readlines()
+
+points = {}
+
+for j in range(len(lines)):
+	point = ast.literal_eval(lines[j].strip())
+	points[point["uuid"]] = {}
+	points[point["uuid"]]["string"] = lines[j].strip()
+	points[point["uuid"]]["dict"] = point
+	points[point["uuid"]]["index"] = j
+	if j==0:
+		print points
+
+similarity = {}
+for line in open("search/finalSim").readlines():
+	point = ast.literal_eval(line.strip())
+	for uuid in point:
+		similarity[uuid] = point[uuid]
+	#print similarity
+def search(request):
+    t = loader.get_template('search3.html')
+    c = Context({})
+    return HttpResponse(t.render(c))
+
+def getresultsStatus(request):
+	global i
+	global lines
+
+	f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	i += 1
+	f.write("SESSION DATA : " + str(request.session))
+
+	request.session["test_key"] = "TEST VALUE"
+
+	f.write("\n\n\nNEW SESSION DATA\n" + str(request.session) + "\n\n")
+	parts = str(request).split(',')
+	result = [ ]
+	for part in parts:
+		if "POST" not in part:
+			continue
+		#f.write(" Number of lines in read file : " + str(len(lines)))
+		query = part.strip().split('\'')[1].strip()
+		result = parse_query(lines,query,20)	
+
+		if len(result) == 0:
+			result = [ {"Path" : "No results" } ]
+		#f.write("\n\n"  + str(query) + "\n\n" + str(result))
+		break
+	#f.close()	
+
+	result = str(result)
+	result = re.sub('\'','\"',result)
+	return HttpResponse([result])
+
+def getExtraResults(request):
+	global i
+	global lines
+
+	#f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	#i += 1
+
+
+	parts = str(request).split(',')
+	result = [ ]
+	for part in parts:
+		if "POST" not in part:
+			continue
+		#f.write(" Number of lines in read file : " + str(len(lines)))
+		query = part.strip().split('\'')[1].strip()
+		result = parse_query(lines,query,10000)	
+
+			
+		if len(result) == 0:
+			result = [ {"Path" : "No results" } ]
+		#f.write("\n\n"  + str(query) + "\n\n" + str(result))
+		break
+	#f.close()	
+	
+	result = str(result)
+	result = re.sub('\'','\"',result)
+	return HttpResponse([result])
+
+
+def getSimilar(request):
+	global points
+	global i
+	global similarity
+	#f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	i += 1
+	parts = str(request).split(',')
+	ans = [ ]
+
+	result = []
+	for part in parts:
+		if "POST" not in part:
+			continue
+		query = part.strip().split('\'')[1].strip()
+		if query not in similarity:	
+			break
+		sim = similarity[query]
+		for p in sim:
+			point = points[p[0]]["dict"]
+			result.append(point)
+
+		break
+	if len(result) == 0:
+		result = [ {"Path" : "No results" } ]
+	result = str(result)
+	result = re.sub('\'','\"',result)
+	return HttpResponse([result])
+
+
+def replace(request):
+	global points
+	global i
+	global similarity
+	#f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	i += 1
+	parts = str(request).split(',')
+	ans = [ ]
+
+	result = []
+	for part in parts:
+		if "POST" not in part:
+			continue
+		query = part.strip().split('\'')[1].strip()
+		if "test_key" not in request.session:
+			result = [ { "Path" : " No results" , "uuid" : "random" } ]
+		else:
+			result = [ { "Path" : request.session["test_key"] , "uuid" : "random" } ]
+		break
+	result = str(result)
+	result = re.sub('\'','\"',result)
+	return HttpResponse([result])
+
+
+		
+def getMetadata(request):
+	global points
+	global i
+	#f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	#i += 1
+	parts = str(request).split(',')
+	ans = [ ]
+	for part in parts:
+		if "POST" not in part:
+			continue
+		query = part.strip().split('\'')[1].strip()
+		#f.write("\n UUID = " + query)
+		print "UUID",query
+		#ans = [ points['43a17dfe-3118-5cbe-b591-0178c9f95f5a']['string'] ]
+		ans = [ str(points[query]["dict"]) ]
+		#print "ANS ",ans
+		#f.write("\n\n RETURNED " + str(ans))
+		#f.close()
+		break 
+		
+	return HttpResponse([ str(ans) ])
+
+def updateMetadata(request):
+	global points
+	global lines
+	global i
+	#f = open("temp-" + str(i),"w")
+	#f.write(str(request))
+	#i += 1
+	parts = str(request).split(',')
+	ans = [ ]
+	for part in parts:
+		if "POST" not in part:
+			continue
+		query = part.strip().split('\'')[1].strip()
+
+		print "UPDATING DATA",query
+		tags = query.strip().split(' ')
+		uuid = tags[0].strip()
+		for tag in tags[1:]:
+			key = tag.split(':')[0].strip()
+			value = tag.split(':')[1].strip()
+			points[uuid]["dict"]["Added/" + key] = value
+		
+		points[uuid]["string"] = str(points[uuid]["dict"])
+		lines[points[uuid]["index"]] = points[uuid]["string"]
+ 
+		break
+
+	return HttpResponse([])
+
+def getresults(request):
+	global i
+
+	f = open("tmp-" + str(i),"w")
+	f.write(str(request))
+	i += 1
+
+
+	parts = str(request).split(',')
+	result = [ 1, 2 , 3]
+	for part in parts:
+		if "POST" not in part:
+			continue
+		query = part.strip().split('[')[1].strip().split('\'')[1].strip()
+		result = keywordSearch(query)	
+
+		f.write("\n\n"  + str(query) + "\n\n" + str(result))
+		break
+	f.close()	
+
+	result = str(result)
+	result = re.sub('\'','\"',result)
+	return HttpResponse([result])

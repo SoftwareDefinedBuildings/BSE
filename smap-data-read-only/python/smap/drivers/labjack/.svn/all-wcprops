@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/370/trunk/python/smap/drivers/labjack
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101/trunk/python/smap/drivers/labjack/__init__.py
+END
+LabJackPython-4-13-2011.zip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/101/trunk/python/smap/drivers/labjack/LabJackPython-4-13-2011.zip
+END
+labjack.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/265/trunk/python/smap/drivers/labjack/labjack.py
+END

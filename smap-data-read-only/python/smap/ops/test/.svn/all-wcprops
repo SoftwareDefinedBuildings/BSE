@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/565/trunk/python/smap/ops/test
+END
+test_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/565/trunk/python/smap/ops/test/test_gen.py
+END
+test_arithmetic.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/273/trunk/python/smap/ops/test/test_arithmetic.py
+END
+test_group.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/565/trunk/python/smap/ops/test/test_group.py
+END
+test_meter.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/272/trunk/python/smap/ops/test/test_meter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/272/trunk/python/smap/ops/test/__init__.py
+END
+test_units.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/474/trunk/python/smap/ops/test/test_units.py
+END

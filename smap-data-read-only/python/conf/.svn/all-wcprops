@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/585/trunk/python/conf
+END
+nyiso.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/341/trunk/python/conf/nyiso.ini
+END
+archiver.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/426/trunk/python/conf/archiver.ini
+END
+washingtonbpa.ini
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/185/trunk/python/conf/washingtonbpa.ini
+END
+noaaforecast.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/185/trunk/python/conf/noaaforecast.ini
+END
+miso.ini
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/498/trunk/python/conf/miso.ini
+END
+alert.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/585/trunk/python/conf/alert.ini
+END
+resample.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/353/trunk/python/conf/resample.ini
+END
+pge.ini
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/449/trunk/python/conf/pge.ini
+END
+ercot.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/498/trunk/python/conf/ercot.ini
+END
+isone.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/498/trunk/python/conf/isone.ini
+END
+test.ini
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/114/trunk/python/conf/test.ini
+END
+readingdb.ini
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/415/trunk/python/conf/readingdb.ini
+END
+caiso_price.ini
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/python/conf/caiso_price.ini
+END
+opc.ini
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/284/trunk/python/conf/opc.ini
+END
+wunderground.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/419/trunk/python/conf/wunderground.ini
+END
+droms.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/580/trunk/python/conf/droms.ini
+END
+pjm.ini
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/341/trunk/python/conf/pjm.ini
+END
+campus.ini
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/267/trunk/python/conf/campus.ini
+END
+veris.ini
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/56/trunk/python/conf/veris.ini
+END
+dras.ini
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/580/trunk/python/conf/dras.ini
+END
+example.ini
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/526/trunk/python/conf/example.ini
+END
+caiso.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/498/trunk/python/conf/caiso.ini
+END

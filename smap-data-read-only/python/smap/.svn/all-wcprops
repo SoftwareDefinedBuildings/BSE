@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/587/trunk/python/smap
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/572/trunk/python/smap/core.py
+END
+driver.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/487/trunk/python/smap/driver.py
+END
+disklog.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/372/trunk/python/smap/disklog.py
+END
+sjson.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/548/trunk/python/smap/sjson.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/python/smap/__init__.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/549/trunk/python/smap/schema.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/265/trunk/python/smap/interface.py
+END
+ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/510/trunk/python/smap/ssl.py
+END
+subscriber.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/388/trunk/python/smap/subscriber.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/505/trunk/python/smap/server.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/478/trunk/python/smap/loader.py
+END
+smapconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/505/trunk/python/smap/smapconf.py
+END
+schema
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/56/trunk/python/smap/schema
+END
+reporting.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/548/trunk/python/smap/reporting.py
+END
+default.ini
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/python/smap/default.ini
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/571/trunk/python/smap/util.py
+END
+operators.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/565/trunk/python/smap/operators.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/265/trunk/python/smap/authentication.py
+END
+proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/265/trunk/python/smap/proxy.py
+END
+csvloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/265/trunk/python/smap/csvloader.py
+END
+actuate.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/508/trunk/python/smap/actuate.py
+END
+formatters.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/582/trunk/python/smap/formatters.py
+END
+checkers.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/475/trunk/python/smap/checkers.py
+END

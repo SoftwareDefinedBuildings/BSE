@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/583/trunk/python/smap/ops
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/474/trunk/python/smap/ops/filters.py
+END
+arithmetic.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/565/trunk/python/smap/ops/arithmetic.py
+END
+grouping.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/583/trunk/python/smap/ops/grouping.py
+END
+meter.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/413/trunk/python/smap/ops/meter.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/577/trunk/python/smap/ops/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/272/trunk/python/smap/ops/__init__.py
+END
+ts.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/418/trunk/python/smap/ops/ts.py
+END

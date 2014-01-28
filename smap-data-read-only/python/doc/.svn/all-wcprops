@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/576/trunk/python/doc
+END
+additional.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/525/trunk/python/doc/additional.rst
+END
+drivers.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/525/trunk/python/doc/drivers.rst
+END
+driver_index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/525/trunk/python/doc/driver_index.rst
+END
+R_access.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/568/trunk/python/doc/R_access.rst
+END
+archiver_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/520/trunk/python/doc/archiver_tutorial.rst
+END
+core.rst
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/python/doc/core.rst
+END
+archiver_install.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/576/trunk/python/doc/archiver_install.rst
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/545/trunk/python/doc/intro.rst
+END
+additional_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/520/trunk/python/doc/additional_tutorial.rst
+END
+tags.rst
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/64/trunk/python/doc/tags.rst
+END
+internals.rst
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/520/trunk/python/doc/internals.rst
+END
+tools.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/546/trunk/python/doc/tools.rst
+END
+archiver_manual.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/576/trunk/python/doc/archiver_manual.rst
+END
+python_access.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/560/trunk/python/doc/python_access.rst
+END
+tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/545/trunk/python/doc/tutorial.rst
+END
+archiver.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/544/trunk/python/doc/archiver.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/546/trunk/python/doc/conf.py
+END
+gwiki2rst.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/525/trunk/python/doc/gwiki2rst.py
+END
+obvius-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/python/doc/obvius-data.xml
+END
+install.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/545/trunk/python/doc/install.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/101/trunk/python/doc/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/555/trunk/python/doc/index.rst
+END

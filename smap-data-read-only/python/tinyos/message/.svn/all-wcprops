@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/101/trunk/python/tinyos/message
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/64/trunk/python/tinyos/message/__init__.py
+END
+Message.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/python/tinyos/message/Message.py
+END
